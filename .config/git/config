@@ -1,0 +1,16 @@
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main
+[merge]
+	conflictstyle = diff3
+[pull]
+	rebase = false
+[user]
+	name = dhruv
+	email = hi@dhrv.pw
+	signingkey = DDF1F0DFDFBC9BDAA3E651EE111F1312C5B2D4CB
+[gpg]
+	program = gpg
+[commit]
+	gpgsign = true
